@@ -1,0 +1,55 @@
+
+
+Student Performance Prediction Using Machine Learning
+
+Introduction:
+This project predicts student academic performance using Machine Learning by analyzing study time, attendance, parental education, travel time, and previous academic records. A Streamlit web application provides instant predictions. 
+
+
+Objectives:
+
+Predict student performance.
+
+Identify key factors affecting performance.
+
+Develop a Streamlit web application.
+
+Demonstrate the use of Machine Learning in education. 
+
+
+Technologies Used:
+Python, Google Colab, Pandas, NumPy, Scikit-learn, Streamlit, Joblib, GitHub. 
+
+
+Methodology:
+
+Collect and preprocess data.
+
+Train and evaluate the model.
+
+Save the trained model.
+
+Develop the Streamlit application.
+
+Test the application. 
+
+
+Results:
+The model successfully predicts student performance and provides instant results through the web application. 
+
+
+Conclusion:
+This project demonstrates the practical use of Machine Learning in education and can be improved using larger datasets and advanced algorithms. 
+
+
+Future Scope:
+
+Improve accuracy.
+
+Use real-time datasets.
+
+Integrate with school systems.
+
+Add analytics.
+
+Deploy on the cloud
